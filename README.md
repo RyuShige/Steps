@@ -8,14 +8,14 @@
 
 を表示しており、それぞれ
 - 過去の自分との比較による歩数促進
-- 昨日の全歩数を所有化することで、歩数促進（[エンダウンメント効果](https://www.kcsf.co.jp/marketing/endowment.html)）
+- 昨日の全歩数を所有化することで、歩数促進（[エンダウメント効果](https://www.kcsf.co.jp/marketing/endowment.html)）
 
 を図っています。
 
 ### UI
 **動画**
 
-<video src="RPReplay_Final1693015429.mp4" controls title="Title" width="500" height="375"></video>
+<img src="RPReplay_Final1693015429.gif" alt="app movie" width="200"/>
 
 **トップ画面**
 
